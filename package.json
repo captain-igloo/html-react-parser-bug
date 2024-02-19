@@ -1,0 +1,19 @@
+{
+  "name": "html-react-parser-bug",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "tsc --outDir lib"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "html-react-parser": "^5.1.6"
+  },
+  "devDependencies": {
+    "@types/node": "^20.11.19",
+    "@types/react": "^18.2.56",
+    "typescript": "^5.3.3"
+  }
+}
